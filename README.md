@@ -1,6 +1,6 @@
-***Términos de Servicio de ByteBot***
+***Términos de Servicio de ByteBot Team***
 
-<kbd>**Estos Términos de Servicio ("los Términos") son un contrato legal entre usted (en adelante, "el Usuario") y ByteBot ("el Bot"), operado por DiscordByteBot ("Nosotros", "Nos" o "Nuestro"). Al utilizar el Bot, usted acepta cumplir con estos Términos y cualquier otra política o guía que publiquemos. Lea atentamente estos Términos antes de utilizar el Bot.**<kbd>
+<kbd>**Estos Términos de Servicio ("los Términos") son un contrato legal entre usted (en adelante, "el Usuario") y ByteBot o ByteSecurity ("el Bot"), operado por ByteBot Team ("Nosotros", "Nos" o "Nuestro"). Al utilizar el Bot, usted acepta cumplir con estos Términos y cualquier otra política o guía que publiquemos. Lea atentamente estos Términos antes de utilizar el Bot.**<kbd>
 
 **1. Uso del Bot**
 > 1.1. El Bot es una herramienta diseñada para ser utilizada en servidores de Discord. El Usuario puede invitar al Bot a su servidor y utilizarlo según las funcionalidades proporcionadas.
